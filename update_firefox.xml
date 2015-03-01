@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<RDF:Description about="urn:mozilla:extension:jid1-tjEItVza4kjCHw@jetpack">
 		<em:updates>
 			<RDF:Seq>
 				<RDF:li>
 					<RDF:Description>
-						<em:version>3.2.1.3</em:version>
+						<em:version>3.2.3.5</em:version>
 						<em:targetApplication>
 						<RDF:Description>
 							<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-							<em:minVersion>8.0</em:minVersion>
-							<em:maxVersion>23.*</em:maxVersion>
-							<em:updateLink>https://github.com/ehtao/firefox/raw/master/易海淘ehtao_3.2.1.3.xpi</em:updateLink>
+							<em:minVersion>17.0</em:minVersion>
+							<em:maxVersion>36.*</em:maxVersion>
+							<em:updateLink>https://github.com/ehtao/firefox/raw/master/易海淘ehtao_3.2.3.5.xpi</em:updateLink>
 						</RDF:Description>
 						</em:targetApplication>
 					</RDF:Description>
 				</RDF:li>
 			</RDF:Seq>
 		</em:updates>
-		<em:version>3.2.1.3</em:version>
-		<em:updateLink>https://github.com/ehtao/firefox/raw/master/易海淘ehtao_3.2.1.3.xpi</em:updateLink>
+		<em:version>3.2.3.5</em:version>
+		<em:updateLink>https://github.com/ehtao/firefox/raw/master/易海淘ehtao_3.2.3.5.xpi</em:updateLink>
 	</RDF:Description>
 </RDF:RDF>
